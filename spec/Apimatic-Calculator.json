@@ -9,7 +9,7 @@
   "servers": [
     {
       "url": "https://examples.apimatic.io/apps/calculator",
-      "description": "This environment connect to the LIVE calculator API!",
+      "description": "This environment connect to the LIVE calculator API",
       "variables": {}
     }
   ],
